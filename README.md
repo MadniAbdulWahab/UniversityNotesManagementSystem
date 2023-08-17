@@ -35,17 +35,22 @@ The user interface is designed to be user-friendly, promoting a glitch-free and 
 
 
 ## Screenshots
-
+#### Home page
 ![unms home](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/397023ea-7e90-4835-a2db-14d2383b5088)
 
+#### Upload page
 ![unms upload](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/c0d20ec2-d710-4748-bd9a-cf3b183874cb)
 
+#### Profile page
 ![unms profile](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/93754b7f-6156-4da3-acfd-c73b095491d2)
 
+#### Delete or update page
 ![unms delete](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/01311202-46bd-4500-8764-0f88e16bbec1)
 
+#### Admin Dashboard
 ![unms admin](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/24812dd5-352f-4d29-aad2-27b6f6222a76)
 
+#### Admin User list page
 ![unms admin2](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/24e7d69b-8739-40e7-b9dd-5f63bc4ba26b)
 
 
