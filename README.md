@@ -121,4 +121,4 @@ python manage.py runserver
 
 For any inquiries or feedback, please contact me at madniabdulwahab@gmail.com.
 
-By creating the University Notes Management System, we aimed to empower students with a convenient and secure platform for note sharing, fostering a collaborative and knowledge-sharing community. Join us in making education more accessible and enriching for all students.
+By creating the University Notes Management System, we aimed to empower students with a convenient and secure platform for note sharing, fostering a collaborative and knowledge-sharing community.
