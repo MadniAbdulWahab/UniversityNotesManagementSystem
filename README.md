@@ -35,6 +35,9 @@ The user interface is designed to be user-friendly, promoting a glitch-free and 
 
 
 ## Screenshots
+#### Sign up page
+![signup page](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/97f96cf3-766d-480c-b415-761d8d08f265)
+
 #### Home page
 ![unms home](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions/assets/105889425/397023ea-7e90-4835-a2db-14d2383b5088)
 
