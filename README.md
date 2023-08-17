@@ -1,23 +1,101 @@
-# fyp
-Create virtual environment
-python -m venv venv
+<h1>UniversityNotesManagementSystem</h1>
 
-Activate virtual environment
-.\venv\Scripts\activate
-
-Install Requirements
-pip freeze > requirements.txt
-pip install -r requirements.txt 
+<h2>Description</h2>
+University Notes Management System was developed as our final year project for our bachelor's degree. This collaborative effort between me and my friend Hamza Badar. It aims to provide a centralized platform for students to easily share and access academic notes. The platform addresses the lack of a common space for students to freely exchange notes, making learning more accessible and efficient.
+<br />
 
 
-Run Server
+<h2>Motivation</h2>
+
+Notes play a crucial role in enhancing learning experiences and improving academic performance. However, at the time of my bachelor's, there was a noticeable absence of platforms exclusively dedicated to the free sharing of notes in our university. Our University Notes Management System bridges this gap by providing a unified platform for students to upload, access, and download notes seamlessly.
+
+<h2>Key Features</h2>
+
+
+
+
+
+
+
+- <b>User Registration and Authentication: </b> 
+Students can create accounts, log in, and log out with ease to access and manage their notes.
+
+- <b>Effortless Note Sharing: </b>
+Users can upload notes in desired formats, which are then organized systematically by department, semester, and subject for easy navigation.
+Our system employs rigorous measures to prevent spam and abusive content, ensuring a safe and productive environment for all users.
+
+- <b>Download Functionality: </b>
+Users can effortlessly download notes to their devices for offline access and study.
+
+- <b>Cloud-Based Database: </b>
+We utilize a cloud-hosted real-time syncing database that enhances reliability and provides seamless offline access by utilizing local caches.
+
+- <b>Intuitive GUI: </b>
+The user interface is designed to be user-friendly, promoting a glitch-free and enjoyable experience.
+
+
+<h2>Functionalities</h2>
+
+#### Functionalities given to user:
+
+- **Sign Up**: New users can create accounts by providing necessary information.
+- **Login**: Registered users can log in to access their accounts.
+- **Home Page**: The main interface where users can navigate and access various features.
+- **Search**: Users can search for specific notes or topics.
+- **User Posts**: View notes uploaded by users.
+- **Upload**: Users can upload their notes to share with others.
+- **Download**: Users can download notes from the platform.
+- **User Profile**: View and manage user profile information.
+- **Delete Post**: Users can delete their uploaded notes.
+- **Update Post**: Users can edit and update their uploaded notes.
+- **Change Profile Picture**: Users can change their profile pictures.
+- **Log Out**: Users can log out from their accounts.
+
+#### Functionalities given to Admin:
+
+- **Admin Login**: Admins can log in to the admin dashboard.
+- **Admin Dashboard**: Interface for admin management tasks.
+- **Users List**: View the list of registered users.
+- **Find a User**: Apply filters or search to find specific users.
+- **Add a User**: Admins can add new users.
+- **Manage User Permissions**: Assign permissions to specific user groups.
+- **Change User Password**: Admins can change user passwords.
+- **Change User Information**: Admins can modify user details.
+- **Change User Profile**: Admins can update user profiles.
+- **Delete User**: Admins can delete user accounts.
+- **Check Recent Activities**: Monitor recent activities on the platform.
+
+#### Testing:
+
+- **Registration/Sign Up**: Test the user registration process.
+- **Login**: Test user login functionality.
+- **Manage Files**: Test file upload and download functionality.
+
+## Requirements
+
+To run the University Notes Management System, ensure you have the following requirements installed:
+
+- Django==2.2
+- django-crispy-forms==1.14.0
+- image==1.5.33
+- Pillow==9.1.1
+- pytz==2022.1
+- six==1.16.0
+- sqlparse==0.4.2
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies using the specified versions.
+3. Configure your database settings in the project's settings.py file.
+4. Run the Django development server.
+
+```bash
 python manage.py runserver
+```
 
-DB Changes
-python manage.py makemigrations
-python manage.py migrate
+## Contact
 
-Create super user
-python manage.py createsuperuser
+For any inquiries or feedback, please contact me at madniabdulwahab@gmail.com.
 
-
+By creating the University Notes Management System, we aimed to empower students with a convenient and secure platform for note sharing, fostering a collaborative and knowledge-sharing community. Join us in making education more accessible and enriching for all students.
