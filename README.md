@@ -1,7 +1,7 @@
 <h1>UniversityNotesManagementSystem</h1>
 
 <h2>Description</h2>
-University Notes Management System was developed as our final year project for our bachelor's degree. This collaborative effort between me and my friend Hamza Badar. It aims to provide a centralized platform for students to easily share and access academic notes. The platform addresses the lack of a common space for students to freely exchange notes, making learning more accessible and efficient.
+University Notes Management System(UNMS) was developed as our final year project for our bachelor's degree. It is a collaborative effort between me and my friend Hamza Badar. UNMS is a web-based centralized platform for students to easily share and access academic notes. The platform addresses the lack of a common space for students to freely exchange notes, making learning more accessible and efficient.
 <br />
 
 
